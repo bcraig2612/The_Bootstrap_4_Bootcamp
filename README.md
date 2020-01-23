@@ -31,3 +31,53 @@
 ### - Dropped Glyphicons
 
 ### - Tons of new utility classes in BootStrap4
+
+## - Bootstrap Colors (Basic Colors for TEXT and BACKGROUNDS)
+
+### - text-primary (BLUE)
+
+### - text-secondary (GRAY)
+
+### - text-success (GREEN)
+
+### - text-danger (RED)
+
+### - text-warning (YELLOW)
+
+### - text-info (TEAL)
+
+### - text-light (GRAY-SMOKE)
+
+### - text-dark (DARK GRAY)
+
+### - text-body (BLACK)
+
+### - text-muted (LIGHT-GRAY)
+
+### - text-white (WHITE)
+
+### - text-black-50 (GRAY)
+
+### - bg-primary (BLUE)
+
+### - bg-secondary (GRAY)
+
+### - bg-success (GREEN)
+
+### - bg-danger (RED)
+
+### - bg-warning (YELLOW)
+
+### - bg-info (TEAL)
+
+### - bg-light (GRAY-SMOKE)
+
+### - bg-dark (DARK GRAY)
+
+### - bg-body (BLACK)
+
+### - bg-muted (LIGHT-GRAY)
+
+### - bg-white (WHITE)
+
+### - text-black-50 (GRAY)
