@@ -8,10 +8,34 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <title>List Groups</title>
+    <title>Alerts</title>
 </head>
 
 <body>
+
+    <div class="container">
+        <h1 class="display-3 text-center" role="alert">Alerts</h1>
+        <div class="alert alert-primary">
+            A simple primary alert-check it out!
+        </div>
+        <div class="alert alert-success" role="alert">
+            Congrats! You successfully created an account.
+        </div>
+        <div class="alert alert-danger" role="alert">
+            <h4 class="alert-heading">Warning!</h4>
+            There was an issue submitting your request. Read more <a href="" class="alert-link">here</a>
+        </div>
+        <h1>Dismissible Alert</h1>
+        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+            <h4 class="alert-heading">There has been changes that haven't been saved!</h4>
+            If you would like to keep your changes, please save before continuing. Read more <a href=""
+                class="alert-link">here</a>
+            <button class="close" data-dismiss="alert" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+    </div>
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
